@@ -13,7 +13,7 @@ public class Scanner_class {
 		Scanner_class obj = new Scanner_class();
 		obj.add(num1,num2);
 	}
-		
+	
 		public void add(int a,int b)
 		{
 			int result = a+b;
