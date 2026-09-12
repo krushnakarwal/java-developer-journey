@@ -6,8 +6,8 @@ public class NestedIfStatement {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your age : ");
 		int age = sc.nextInt();
-	
-	
+
+
 	if(age>=18) 
 	{
 		

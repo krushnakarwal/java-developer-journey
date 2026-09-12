@@ -2,7 +2,7 @@ package com.java_basics;
 
 public class ArithmaticOperator {
 	public static void main ( String [] args) {
-		
+	
 		int num1 = 100;
 		int num2 = 20;
 		int result;
