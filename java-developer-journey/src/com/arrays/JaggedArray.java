@@ -4,7 +4,7 @@ public class JaggedArray
 {
 	 public static void main(String[] args) 
 	 {
-	        
+	    
 	        int[][] jagged = 
 	        	{
 	                {10, 20},          
