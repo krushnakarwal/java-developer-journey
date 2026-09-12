@@ -11,7 +11,7 @@ public class DataTypes {
 	double  g = 88.8999999;
 	char    h = 'k';
 	boolean i = true;
-	
+
 	System.out.println("Byte Data Type = "+a);
 	System.out.println("short Data Type = "+b);
 	System.out.println("int data Type = "+c);
