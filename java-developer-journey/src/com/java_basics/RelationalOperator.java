@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Relational_operator {
+public class RelationalOperator {
 	public static void main(String[] args) {
 		int num1 = 25;
 		int num2 = 40;

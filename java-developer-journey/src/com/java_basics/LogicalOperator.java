@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Logical_operator {
+public class LogicalOperator {
 	public static void main(String [] args) {
 		
 		int age = 21;

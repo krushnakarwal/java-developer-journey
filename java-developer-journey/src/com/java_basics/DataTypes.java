@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Data_types {
+public class DataTypes {
 	public static void main(String[] args) {
 	
 	byte    a = 110;

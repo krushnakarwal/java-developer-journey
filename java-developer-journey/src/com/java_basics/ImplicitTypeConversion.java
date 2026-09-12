@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Implicit_type_onversion {
+public class ImplicitTypeConversion {
 	public static void main(String [] args) {
 	
     int a = 10;

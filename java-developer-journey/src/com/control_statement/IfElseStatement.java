@@ -1,6 +1,6 @@
 package com.control_statement;
 
-public class If_else_statement {
+public class IfElseStatement {
 	public static void main(String [] args)
 	{
 		String education = "Graduation";

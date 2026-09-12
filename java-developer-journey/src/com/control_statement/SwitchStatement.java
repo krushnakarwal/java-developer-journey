@@ -2,7 +2,7 @@ package com.control_statement;
 
 import java.util.Scanner;
 
-public class Switch_statement {
+public class SwitchStatement {
 	public static void main( String [] args)
 	{
 		Scanner sc = new Scanner(System.in);
@@ -47,6 +47,7 @@ public class Switch_statement {
 			System.out.println("Invalid Input");
 		
 		}
+		sc.close();
 	}
 
 }

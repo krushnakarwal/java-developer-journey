@@ -1,6 +1,6 @@
 package com.arrays;
 
-public class Two_Dimensional_Array 
+public class TwoDimensionalArray 
 {
 	 public static void main(String[] args) 
 	 {

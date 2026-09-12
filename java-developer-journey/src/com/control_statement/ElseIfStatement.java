@@ -2,7 +2,7 @@ package com.control_statement;
 
 import java.util.Scanner;
 
-public class Else_if_statement {
+public class ElseIfStatement {
 	public static void main(String [] args)
 	{
 		Scanner sc = new Scanner(System.in);
@@ -40,7 +40,8 @@ public class Else_if_statement {
 		{
 			System.out.println("bhaii yarrr tuuuu failll ho gayaa...");
 		}
+		
+	   sc.close();
 	}
 	
-
 }

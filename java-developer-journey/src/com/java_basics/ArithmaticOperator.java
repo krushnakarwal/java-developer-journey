@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Arithmatic_operator {
+public class ArithmaticOperator {
 	public static void main ( String [] args) {
 		
 		int num1 = 100;

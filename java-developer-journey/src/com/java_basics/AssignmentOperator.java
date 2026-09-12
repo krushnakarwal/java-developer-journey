@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Assignment_operator {
+public class AssignmentOperator {
 	public static void main(String [] args) {
 		int number = 10;
 		int result;

@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Explicit_type_conversion {
+public class ExplicitTypeConversion {
 	public static void main(String [] args) {
 		
 		float a = 16.99f;

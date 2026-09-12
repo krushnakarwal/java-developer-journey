@@ -1,6 +1,6 @@
 package com.control_statement;
 import java.util.Scanner; 
-public class Nested_if_statement {
+public class NestedIfStatement {
 	public static void main(String [] args)
 	{
 		Scanner sc = new Scanner(System.in);
@@ -29,5 +29,7 @@ public class Nested_if_statement {
 	{
 		System.out.println("Not eligible for license testing");
 	}
+	
+	sc.close();
 	}
 }

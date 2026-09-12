@@ -1,6 +1,6 @@
 package com.java_basics;
 
-public class Bitwise_operator {
+public class BitwiseOperator {
 	public static void main(String [] args) {
 
 		        int a = 5;

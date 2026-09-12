@@ -4,7 +4,7 @@ package com.java_basics;
  }
  class Dog extends Animal {
  }
-public class InstanceOf_Operator {
+public class InstanceOfOperator {
 
 	    public static void main(String[] args) {
 

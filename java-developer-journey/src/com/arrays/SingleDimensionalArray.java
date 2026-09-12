@@ -1,6 +1,6 @@
 package com.arrays;
 
-public class Single_Dimensional_Array 
+public class SingleDimensionalArray 
 {
 	
 	public static void main(String[] args) 
