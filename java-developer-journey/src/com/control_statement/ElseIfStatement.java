@@ -1,6 +1,6 @@
 package com.control_statement;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class ElseIfStatement {
 	public static void main(String [] args)
